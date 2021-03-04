@@ -1,0 +1,5 @@
+hellocucumber/StepDefinitions.class
+parallel/StepDefs.class
+hellocucumber/IsItFriday.class
+parallel/RunCucumberTest.class
+hellocucumber/RunCucumberTest.class
