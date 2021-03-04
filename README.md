@@ -1,2 +1,2 @@
 # beeKeeper_cucumber
-To run the tests, hit mvn test in thee terminal
+* To run the test, hit "mvn test"
